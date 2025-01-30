@@ -1,0 +1,84 @@
+# Riff Generator
+
+Welcome to the AI Riff Generator project! This project aims to create an AI-powered riff generator that can be used in real-time for live band performances. The AI will generate musical riffs on-the-fly, adding a dynamic and innovative element to live music shows.
+
+## Features
+
+- **Real-Time Riff Generation:** Generate unique musical riffs in real-time during live performances.
+- **AI-Powered Creativity:** Utilize advanced AI models to create riffs that match the style and genre of the band.
+
+## Installation
+
+To get started with the AI Riff Generator, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/YourUsername/riff-enerator.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd ai-riff-generator
+    ```
+
+3. **Install the required dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Download pre-trained AI models (if applicable):**
+    Follow the instructions in the `models/README.md` file to download and set up the pre-trained AI models.
+
+## Usage
+
+To use the AI Riff Generator during a live performance:
+
+1. **Start the riff generator:**
+    ```bash
+    python riff_generator.py
+    ```
+
+2. **Configure the settings:**
+    Adjust the tempo, key, and complexity parameters as needed using the provided interface.
+
+3. **Trigger riff generation:**
+    Use the interface to trigger the AI-generated riffs in real-time during the performance.
+
+## Example
+
+Here's an example of how to use the AI Riff Generator in a live performance setting:
+
+1. **Set up the equipment:**
+    - Connect the output of the AI Riff Generator to the band's audio system.
+    - Ensure all instruments and microphones are properly set up and connected.
+
+2. **Start the application:**
+    ```bash
+    python riff_generator.py
+    ```
+
+3. **Adjust settings:**
+    Use the interface to configure the tempo, key, and complexity of the riffs.
+
+4. **Trigger riffs:**
+    During the performance, use the interface to generate and play riffs in real-time.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for new features or improvements, please feel free to submit a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please contact [Your Name](mailto:your.email@example.com).
+
+## Acknowledgments
+
+We would like to thank the open-source community and the developers of the AI models used in this project.
+
+---
+
+Enjoy creating dynamic and innovative live performances with the AI Riff Generator!
